@@ -1,0 +1,6 @@
+! Title: Maximtop Custom Filter
+! Description: Maximtop custom filter
+! Version: 1.0.0
+! TimeUpdated: 2019-03-20
+
+freecodecamp.org#%#document.addEventListener("DOMContentLoaded", () => {[...document.querySelectorAll('.metabar'), ...document.querySelectorAll('.u-bottom0')].forEach(el => el.style.display = 'none');})
