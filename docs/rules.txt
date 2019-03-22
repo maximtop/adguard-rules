@@ -3,6 +3,7 @@
 ! Version: 1.0.3
 ! TimeUpdated: 2019-03-22
 
-
+!! rule unblocking requests to my github pages
 @@||maximtop.github.io^
+!! other rules
 medium.com,freecodecamp.org#%#document.addEventListener("DOMContentLoaded", () => {[...document.querySelectorAll('.metabar'), ...document.querySelectorAll('.u-bottom0')].forEach(el => el.style.display = 'none');})
