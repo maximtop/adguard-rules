@@ -1,6 +1,6 @@
 ! Title: Maximtop Custom Filter
 ! Description: Maximtop custom filter
-! Version: 1.0.7
+! Version: 1.0.8
 ! TimeUpdated: 2019-03-22
 
 !! rule unblocking requests to my github pages
