@@ -1,1 +1,7 @@
-||v.adfox.ru/*/getCode?pp=$domain=1tv.ru,empty,important
+! Title: Test Rule
+! Description: Test rules description
+! Version: 2.0.90.3
+! TimeUpdated: 2019-12-13T12:03:13+03:00
+! Expires: 2 days
+
+example.org#%#console.log('test');
